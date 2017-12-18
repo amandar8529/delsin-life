@@ -1,12 +1,12 @@
 body{
   font-family: 'Berkshire Swash' ;
   font-size: 25px;
-  background-color: lightblue;
+  background-color: #45B4EC;
 
 }
 h1{
   font-family: 'Risque';
-  background-color: lightblue;
+  background-color: #45B4EC  ;
   padding-top: 40px;
     padding-right: 20px;
     padding-bottom: 40px;
@@ -16,10 +16,10 @@ h1{
 .questions{
  font-size:25px;
   font-family:'Bungee';
-  background-color: lightblue;
+  background-color: #45B4EC  ;
 }
 div{
-  background-color: lightblue;
+  background-color: #45B4EC  ;
     padding-top: 40px;
     padding-right: 20px;
     padding-bottom: 40px;
